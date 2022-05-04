@@ -39,11 +39,11 @@ A simple quote app that a user can generate quotes by filling up the form, and v
 
 [Go Back to the top](#SimpleQuoteApp)
 ## Authors Info
-#### William Owalla
-Incase of any problem, send me an email on [this link](william.owalla@student.moringaschool.com)
+#### Eunice Mungai
+Incase of any problem, send me an email on:eunice.mungai@student.moringaschool.com
 
 ## License
-This project is licensed under the terms of the MIT license. Copyright (c) 2022 William Owalla
+This project is licensed under the terms of the MIT license. Copyright (c) 2022 Eunice Mungai
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
